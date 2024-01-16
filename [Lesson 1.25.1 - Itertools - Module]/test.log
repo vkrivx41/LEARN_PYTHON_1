@@ -1,0 +1,7 @@
+Date: 2023-11-17
+Author: Scorpus
+Description: This is a sample log file
+
+Okay, this is just a sample file created by Scorpus to demonstrate the use-case of itertools islice method
+I am going to write a few more lines here so that the example will be clear
+For the sake of the example let's pretend this log file has more than a thousand lines of lines
